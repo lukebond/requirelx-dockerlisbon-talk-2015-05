@@ -48,7 +48,7 @@
 ## WHAT IS DOCKER
 
 - Docker is Linux Containers...
-  - with good UK
+  - with good UX
   - with a package manager
 - What are LXCs?
   - LXCs are like chroots
